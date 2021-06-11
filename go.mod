@@ -1,4 +1,4 @@
-module github.com/filecoin-project/ffi-stub
+module github.com/hannahhoward/ffi-stub
 
 go 1.14
 
